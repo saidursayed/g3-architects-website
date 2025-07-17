@@ -334,6 +334,11 @@ footer {
     margin: 0 20px;
   }
 
+  .sponsors-info {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
   .sponsors-companies {
     justify-items: center;
     gap: 30px;
